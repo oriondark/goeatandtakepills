@@ -1,0 +1,63 @@
+
+ [
+        {
+            "pharmacyid": "pharm123",
+            "name": "12 StoneHealth",
+            "street": "352 W Northfield Blvd #3",
+            "city": "Murfreesboro",
+            "state": "TN",
+            "postcode": 37129,
+            "image": "require('takepills/img/assets/pharma.jpg')",
+            "phone": "(844) 893-0012",
+            "latitude": 35.8722944,
+            "longitude": -86.3918846
+        },
+        {
+            "pharmacyid": "pharm456",
+            "name": "Green Hills Pharmacy",
+            "street": "2140 Bandywood Dr ",
+            "city": "Nashville",
+            "state": "TN",
+            "postcode": 37215,
+            "image": "require('takepills/img/assets/pharma.jpg')",
+            "phone": "(615) 823-6238",
+            "latitude": 36.1055108,
+            "longitude": -86.8191629
+        },
+        {
+            "pharmacyid": "pharm789",
+            "name": "Deal Drug Co",
+            "street": "395 Wallace Rd Ste 102",
+            "city": "Nashville",
+            "state": "TN",
+            "postcode": 37211,
+            "image": "require('takepills/img/assets/pharma.jpg')",
+            "phone": "(615) 834-1398",
+            "latitude": 36.0762198,
+            "longitude": -86.7255142
+        },
+        {
+            "pharmacyid": "pharm111",
+            "name": "CVS Pharmacy",
+            "street": "426 21st Ave S",
+            "city": "Nashville",
+            "state": "TN",
+            "postcode": 37203,
+            "image": "require('takepills/img/assets/pharma.jpg')",
+            "phone": "(615) 321-2590",
+            "latitude": 36.1457013,
+            "longitude": -86.8014956
+        },
+        {
+            "pharmacyid": "pharm123",
+            "name": "Riverside Village Pharmacy",
+            "street": "1406 McGavock Pike",
+            "city": "Nashville",
+            "state": "TN",
+            "postcode": 37216,
+            "image": "require('takepills/img/assets/pharma.jpg')",
+            "phone": "(615) 650-4444",
+            "latitude": 36.2048173,
+            "longitude": -86.7257747
+        }
+    ]
